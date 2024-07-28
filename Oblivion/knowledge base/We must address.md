@@ -1,0 +1,3 @@
+Why should you not suicide? if life is a process and you have the option to end it or continue living it, why would you not choose to end it? What are you searching for that you want to find out continue living in this life, what are you trying to become that is prior to death.
+
+I am in a search of answers, that my brain ask me everytime I perceive something, also I am trying to become a very creative and intelligent human being to face the challenges in life. I will die if the urge to do the things which I wanna do dies inside me.

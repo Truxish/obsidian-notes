@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "b32cb31920bd08ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a9b9e8189f6feb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc3fa16bdb38181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Data Science/1_Fragments of Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b301f8b6b558eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Data Science/Ether projects/Project, ether-planets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d55311948901424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Things we often neglect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34632a362c96eaca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence/Architecture of human intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d86128a24992e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence/Architecture of human intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0b80b14cd619e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence/Architecture of Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c94db984c3ed3291",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6787061d7f847ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123ba9666f47fd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38cbd653d9bc71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/How do our eyes perceive the images?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73050d2e11a02296",
+    "type": "split",
+    "children": [
+      {
+        "id": "da13e754bb2844d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde097bed8c7b5cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c3b1a6d7337d608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Let",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07d05fd1caf88064",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "7c58832fbd641b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a3e82100f43262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdae3be5a1babe3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/How do our eyes perceive the images?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989db354b7a676fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/How do our eyes perceive the images?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b4525b40cabfb08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55ea8bff2481f32a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oblivion/knowledge base/Analyzing the universe/How do our eyes perceive the images?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "e38cbd653d9bc71d",
+  "lastOpenFiles": [
+    "Oblivion/knowledge base/Analyzing the universe/Images.md",
+    "Oblivion/knowledge base/Analyzing the universe/How do our eyes perceive the images?.md",
+    "Excalidraw/Drawing 2024-07-28 08.19.58.excalidraw.md",
+    "Oblivion/Skills/nextjs/disection.md",
+    "Oblivion/Skills/nextjs/companion-101/Design Guide.md",
+    "Oblivion/Skills/nextjs/whats so minimal.md",
+    "Oblivion/Skills/nextjs/companion-101",
+    "Oblivion/Skills/nextjs/companion design.md",
+    "Untitled.md",
+    "Oblivion/Art of Mathematics/combinatorics/enumeration.md",
+    "Oblivion/Skills/nextjs",
+    "Oblivion/Data Science/1_Fragments of Data.md",
+    "Oblivion/Art of Mathematics/combinatorics",
+    "Oblivion/Skills/Nextjs/0_Aim.md",
+    "Oblivion/Skills/Nextjs/1_setup.md",
+    "Oblivion/Things we often neglect.md",
+    "Oblivion/Skills/Nextjs/2_Authentication.md",
+    "Oblivion/Skills/Nextjs/1_Linting.md",
+    "Oblivion/Art of Mathematics/Probability/Human Judgements.md",
+    "Oblivion/Art of Mathematics/Generality/Ish's state theory.md",
+    "Excalidraw/spatial position and resolution.md",
+    "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence/Architecture of Brain.md",
+    "Oblivion/Skills/Nextjs",
+    "Excalidraw/Image formation.md",
+    "Excalidraw/Pasted Image 20240720145402_154.png",
+    "Oblivion/knowledge base/We must address.md",
+    "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence/Architecture of human intelligence.md",
+    "Oblivion/knowledge base/Analyzing the universe",
+    "Oblivion/Ish, this is for me/Reality which I often neglect.md",
+    "Oblivion/Ish, this is for me",
+    "Excalidraw/High level overview of brain system.md",
+    "Excalidraw/Drawing 2024-07-18 15.14.28.excalidraw.md",
+    "Oblivion/knowledge base/Brains, Minds and Machines/Neural circuit of intelligence",
+    "Oblivion/knowledge base/Brains, Minds and Machines",
+    "Oblivion/knowledge base/RAIL/Pretty clueless to start with.md",
+    "Excalidraw",
+    "Oblivion",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Oblivion/Data Science/Excalidraw/Pasted Image 20240711085117_101.png"
+  ]
+}

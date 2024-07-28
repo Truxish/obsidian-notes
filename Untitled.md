@@ -1,0 +1,8 @@
+If you're going to try, go all the way otherwise don't even start, if you're going to try go all the way this could mean losing girlfriends, relatives, family, wives, jobs and may be your mind go all the way, it could mean not eating for 3-4 days it could mean freezing on parking bench, it could mean jail, derusion, mockery, isolation. Isolation is the gift all the other things are just test of your endurance, of how much you really want to do it, and you'll do it despite rejection and the worst odds and it will be better than anything you can imagine. Theres no other feeling like that. If you're going to try go all the way, theres no other way of behaving like that. You'll be alone with the gods and nights will play with fire do it, do it, all the way, all the way you'll ride life straight to perfect laughter and its the only good fight there is. 
+
+Have an infinite focus just try to do it ? wtf no dont have infinite focus, man i was so wrong, never focus too hard, you'll just become more impulsive.
+
+try this thing, don't do anything which is useless, don't think anything which is useless. 
+
+also if i considered myself as mentally weak, i need to become very very intelligent, very very smart and if that's my end goal after this degree than that's is perfect according to me. My whole sole new aim is to become highly intelligent, and how do you become highly intelligent? by solving imense amount of problems.
+Jai siya ram bahahahahahahah why it gave me imense confidence in doing so? idk

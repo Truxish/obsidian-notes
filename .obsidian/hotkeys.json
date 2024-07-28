@@ -1,0 +1,18 @@
+{
+  "emoji-magic:insert": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "emoji-magic:add-to-filename-start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
